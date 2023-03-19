@@ -1,5 +1,5 @@
-hub PCDHubSignificantGene
-shortLabel PCD Hub Significant Gene
-longLabel The hub of genes with significant P-value which less than 0.0001(0.05/494)
+hub CognitiveHub
+shortLabel Comparision between control and decline patients for 0YFU and 16YFU
+longLabel Comparision between control and decline patients for 0YFU and 16YFU
 genomesFile genomes.txt
 email junehuang@link.cuhk.edu.hk
