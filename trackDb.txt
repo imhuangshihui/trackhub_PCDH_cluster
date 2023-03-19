@@ -1,0 +1,17 @@
+track CCDC40
+bigDataUrl temp0.bw
+shortLabel 0YFU_Control_Decline
+longLabel Significant CpGSites between control and decline group for 0YFU
+type bigWig
+visibility full
+autoScale on
+
+track DNAAF1
+bigDataUrl temp16.bw
+shortLabel 16YFU_Control_Decline
+longLabel Significant CpGSites between control and decline group for 16YFU
+type bigWig
+visibility full
+autoScale on
+
+
