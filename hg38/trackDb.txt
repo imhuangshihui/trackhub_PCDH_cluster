@@ -57,7 +57,7 @@ visibility full
 autoScale on
 
 track PCDHB_decline_0&16YFU
-bigDataUrl _bdec_0_16YFU.bed.sorted.bed.bw
+bigDataUrl b_dec_0_16YFU.bed.sorted.bed.bw
 shortLabel PCDHB_decline_0&16YFU
 longLabel DNA methylation changes of clustered PCDHB in patients with cognitive impairment between 0YFU and 16YFU
 type bigWig
