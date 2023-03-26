@@ -1,5 +1,5 @@
-hub CognitiveHub
-shortLabel Comparision between control and decline patients for 0YFU and 16YFU
-longLabel Comparision between control and decline patients for 0YFU and 16YFU
+hub PCDHs
+shortLabel DNA methylation changes of clustered PCDHs during age changes and between cognitive and non-cognitive patients.
+longLabel DNA methylation changes of clustered PCDHs during age changes and between cognitive and non-cognitive patients.
 genomesFile genomes.txt
 email junehuang@link.cuhk.edu.hk
