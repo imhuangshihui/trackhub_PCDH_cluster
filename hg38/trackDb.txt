@@ -1,15 +1,133 @@
-track CCDC40
-bigDataUrl temp0.bw
-shortLabel 0YFU_Control_Decline
-longLabel Significant CpGSites between control and decline group for 0YFU
+track PCDHA_contr_dec_0YFU
+bigDataUrl a_cont_dec_0YFU.bed.sorted.bed.bw
+shortLabel PCDHA_contr_dec_0YFU
+longLabel DNA methylation changes of clustered PCDHA between patients with and without cognitive impairment for 0YFU
 type bigWig
 visibility full
 autoScale on
 
-track DNAAF1
-bigDataUrl temp16.bw
-shortLabel 16YFU_Control_Decline
-longLabel Significant CpGSites between control and decline group for 16YFU
+track PCDHA_contr_dec_16YFU
+bigDataUrl a_cont_dec_16YFU.bed.sorted.bed.bw
+shortLabel PCDHA_contr_dec_16YFU
+longLabel DNA methylation changes of clustered PCDHA between patients with and without cognitive impairment for 16YFU
+type bigWig
+visibility full
+autoScale on
+
+track PCDHA_contr_0&16YFU
+bigDataUrl a_cont_0_16YFU.bed.sorted.bed.bw
+shortLabel PCDHA_contr_0&16YFU
+longLabel DNA methylation changes of clustered PCDHA in patients without cognitive impairment between 0YFU and 16YFU
+type bigWig
+visibility full
+autoScale on
+
+track PCDHA_decline_0&16YFU
+bigDataUrl a_dec_0_16YFU.bed.sorted.bed.bw
+shortLabel PCDHA_decline_0&16YFU
+longLabel DNA methylation changes of clustered PCDHA in patients with cognitive impairment between 0YFU and 16YFU
+type bigWig
+visibility full
+autoScale on
+
+
+
+track PCDHB_contr_dec_0YFU
+bigDataUrl b_cont_dec_0YFU.bed.sorted.bed.bw
+shortLabel PCDHB_contr_dec_0YFU
+longLabel DNA methylation changes of clustered PCDHB between patients with and without cognitive impairment for 0YFU
+type bigWig
+visibility full
+autoScale on
+
+track PCDHB_contr_dec_16YFU
+bigDataUrl b_cont_dec_16YFU.bed.sorted.bed.bw
+shortLabel PCDHB_contr_dec_16YFU
+longLabel DNA methylation changes of clustered PCDHB between patients with and without cognitive impairment for 16YFU
+type bigWig
+visibility full
+autoScale on
+
+track PCDHB_contr_0&16YFU
+bigDataUrl b_cont_0_16YFU.bed.sorted.bed.bw
+shortLabel PCDHB_contr_0&16YFU
+longLabel DNA methylation changes of clustered PCDHB in patients without cognitive impairment between 0YFU and 16YFU
+type bigWig
+visibility full
+autoScale on
+
+track PCDHB_decline_0&16YFU
+bigDataUrl _bdec_0_16YFU.bed.sorted.bed.bw
+shortLabel PCDHB_decline_0&16YFU
+longLabel DNA methylation changes of clustered PCDHB in patients with cognitive impairment between 0YFU and 16YFU
+type bigWig
+visibility full
+autoScale on
+
+
+
+track PCDHG_contr_dec_0YFU
+bigDataUrl g_cont_dec_0YFU.bed.sorted.bed.bw
+shortLabel PCDHG_contr_dec_0YFU
+longLabel DNA methylation changes of clustered PCDHG between patients with and without cognitive impairment for 0YFU
+type bigWig
+visibility full
+autoScale on
+
+track PCDHG_contr_dec_16YFU
+bigDataUrl g_cont_dec_16YFU.bed.sorted.bed.bw
+shortLabel PCDHG_contr_dec_16YFU
+longLabel DNA methylation changes of clustered PCDHG between patients with and without cognitive impairment for 16YFU
+type bigWig
+visibility full
+autoScale on
+
+track PCDHG_contr_0&16YFU
+bigDataUrl g_cont_0_16YFU.bed.sorted.bed.bw
+shortLabel PCDHG_contr_0&16YFU
+longLabel DNA methylation changes of clustered PCDHG in patients without cognitive impairment between 0YFU and 16YFU
+type bigWig
+visibility full
+autoScale on
+
+track PCDHG_decline_0&16YFU
+bigDataUrl g_dec_0_16YFU.bed.sorted.bed.bw
+shortLabel PCDHG_decline_0&16YFU
+longLabel DNA methylation changes of clustered PCDHG in patients with cognitive impairment between 0YFU and 16YFU
+type bigWig
+visibility full
+autoScale on
+
+
+
+track nonPCDH_contr_dec_0YFU
+bigDataUrl o_cont_dec_0YFU.bed.sorted.bed.bw
+shortLabel nonPCDH_contr_dec_0YFU
+longLabel DNA methylation changes of non-PCDH cluster between patients with and without cognitive impairment for 0YFU
+type bigWig
+visibility full
+autoScale on
+
+track nonPCDH_contr_dec_16YFU
+bigDataUrl o_cont_dec_16YFU.bed.sorted.bed.bw
+shortLabel nonPCDH_contr_dec_16YFU
+longLabel DNA methylation changes of non-PCDH cluster between patients with and without cognitive impairment for 16YFU
+type bigWig
+visibility full
+autoScale on
+
+track nonPCDH_contr_0&16YFU
+bigDataUrl o_cont_0_16YFU.bed.sorted.bed.bw
+shortLabel nonPCDH_contr_0&16YFU
+longLabel DNA methylation changes of non-PCDH cluster in patients without cognitive impairment between 0YFU and 16YFU
+type bigWig
+visibility full
+autoScale on
+
+track nonPCDH_decline_0&16YFU
+bigDataUrl o_dec_0_16YFU.bed.sorted.bed.bw
+shortLabel nonPCDH_decline_0&16YFU
+longLabel DNA methylation changes of non-PCDH cluster in patients with cognitive impairment between 0YFU and 16YFU
 type bigWig
 visibility full
 autoScale on
